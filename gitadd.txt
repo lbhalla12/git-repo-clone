@@ -1,0 +1,2 @@
+Using the git-add command will move it to Staging area with + sign in the console.
+Git ad command is for modify stage in order to move it to Stagng.
